@@ -4,3 +4,4 @@
 | ------------ | ---------- | --------- |
 | [Chad](Chad/README.md) | Easy | VulnHub |
 | [mrrobot](mrrobot/README.md) | Medium | TryHackMe |
+| [lo-fi](lofi/README.md) | Easy | TryHackMe |
