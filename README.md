@@ -6,3 +6,4 @@
 | [mrrobot](mrrobot/README.md) | Medium | TryHackMe |
 | [lo-fi](lofi/README.md) | Easy | TryHackMe |
 | [mindgames](mindgames/README.md) | Medium | TryHackMe | 
+| [blog](blog/README.md) | Medium | TryHackMe | 
