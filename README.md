@@ -2,8 +2,11 @@
 
 | Machine Name | Difficulty | Platform |
 | ------------ | ---------- | --------- |
-| [Chad](Chad/README.md) | Easy | VulnHub |
-| [mrrobot](mrrobot/README.md) | Medium | TryHackMe |
-| [lo-fi](lofi/README.md) | Easy | TryHackMe |
-| [mindgames](mindgames/README.md) | Medium | TryHackMe | 
-| [blog](blog/README.md) | Medium | TryHackMe | 
+| [Chad](Chad/README.md) | Easy | VulnHub | Text |
+| [mrrobot](mrrobot/README.md) | Medium | TryHackMe | Text |
+| [lo-fi](lofi/README.md) | Easy | TryHackMe | Text |
+| [Picke-Rick](pickle-rick/README.md) | Easy | TryHackMe | Video |
+| [mindgames](mindgames/README.md) | Medium | TryHackMe | Text |
+| [blog](blog/README.md) | Medium | TryHackMe | Text | 
+| [LazyAdmin](LazyAdmin/README.md) | Easy | TryHackMe | Text |  
+| [road](road/README.md) | Medium | TryHackMe | Video |
