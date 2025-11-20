@@ -1,7 +1,7 @@
 # CTF-writeup's by hello-im-404/r31v41n
 
-| Machine Name | Difficulty | Platform |
-| ------------ | ---------- | --------- |
+| Machine Name | Difficulty | Platform | Type |
+| ------------ | ---------- | --------- | ----| 
 | [Chad](Chad/README.md) | Easy | VulnHub | Text |
 | [mrrobot](mrrobot/README.md) | Medium | TryHackMe | Text |
 | [lo-fi](lofi/README.md) | Easy | TryHackMe | Text |
